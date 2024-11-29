@@ -1,3 +1,5 @@
+**Role-Based Access Control (RBAC) System with Authentication and Authorization**
+
 **Objective:**
 The goal of this project is to demonstrate understanding and implementation of fundamental security concepts required for secure systems development:
 
@@ -77,7 +79,7 @@ MySQL database.
 **Clone the Repository**
 bash
 Copy code
-git clone **https://github.com/22MCMC22/rbac-backend **
+git clone https://github.com/22MCMC22/rbac-backend 
 cd project-directory  
 
 **Set Up the Database**
